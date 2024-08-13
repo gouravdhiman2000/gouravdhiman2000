@@ -38,12 +38,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
   </a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+ 
+## 🏆 My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gouravdhiman2000&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravdhiman2000&theme=tokyonight)
-
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=gouravdhiman2000&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravdhiman2000&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 <!---
 gouravdhiman2000/gouravdhiman2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
