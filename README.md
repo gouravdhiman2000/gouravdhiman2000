@@ -25,6 +25,10 @@
   <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
+ <a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+  </a>
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
@@ -37,7 +41,16 @@
   <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
   </a>
+  <a href="https://github.com/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  </a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+
+ 
  
 ## 🏆 My GitHub Stats
 
